@@ -35,12 +35,6 @@ Feel free to explore my repositories and connect with me!
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawan769&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan769&layout=compact)
 
-## 📂 Projects
-
-Here are some highlights from my public repositories:
-- [Project 1](https://github.com/pawan769/project1) – Short description of project 1.
-- [Project 2](https://github.com/pawan769/project2) – Short description of project 2.
-- [Project 3](https://github.com/pawan769/project3) – Short description of project 3.
 
 ## 🌐 Connect with Me
 
